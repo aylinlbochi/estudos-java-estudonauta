@@ -1,6 +1,7 @@
-/* Faça um programa que receba quatro notas de um aluno, calcule a média
-aritmética das notas e a mensagem de aprovado ou reprovado, considerando
-a aprovação média 7.
+/*
+Faça um programa que receba duas notas de um aluno, calcule a média
+aritmética das notas e a mensagem: média 0 até 3. Reprovado, 
+3 até 7 Exame 7 até 10 Aprovado.
 */
 import java.util.Scanner;
 
