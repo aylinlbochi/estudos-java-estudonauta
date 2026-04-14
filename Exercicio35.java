@@ -2,10 +2,12 @@
 com a porcentagem do distribuidor e dos impostos, ambos aplicados
 ao custo de fábrica. Faça um programa que receba o custo de fábrica de um 
 carro e mostre o preço ao consumidor.
-Custo de fábrica                   % do distribuidor       %dos impostos
-Até R$12.000,00                           5                   isento
-Entre R$ 12.000,00 e R$25.000,00          10                    15
-Acima de R$ 25.000,00                     15                    20
+
+|Custo de fábrica                 | % do distribuidor | %dos impostos|
+|---------------------------------|-------------------|-------------:|
+|Até R$12.000,00                  |  5                |    isento    |
+|Entre R$ 12.000,00 e R$25.000,00 |   10              |      15      |
+|Acima de R$ 25.000,00            |   15              |      20      |
 */
 import java.util.Scanner;
 public class Exercicio35 {

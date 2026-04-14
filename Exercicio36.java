@@ -1,10 +1,12 @@
 /*  Faça um programa que receba o sálario atual de um funcionário, 
 calcule e mostre o valor do aumento e o novo salário.
-Salário               Percentual de aumento
-Até R$300,00                     15%
-R$300 -> R$600,00                10%
-R$600-> R$900,00                 5%
-Acima de R$900,00                0% 
+
+|Salário             |  Percentual de aumento|
+|--------------------|----------------------:|
+|Até R$300,00        |          15%      |
+|R$300 -> R$600,00   |          10%      |
+|R$600-> R$900,00    |          5%       |
+|Acima de R$900,00   |          0%       |
 */
 import java.util.Scanner;
 public class Exercicio36 {

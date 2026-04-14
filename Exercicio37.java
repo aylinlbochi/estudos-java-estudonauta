@@ -2,11 +2,13 @@
 calcule e mostre o valor a receber. Sabe-se que este é composto
 pelo salário bruto acrescido de gratificação e descontando
 o imposto de 7% sobre o salário.
-Salário                     Gratificação
-Até R$ 350,00                 R$ 100,00
-R$ 350,00 -> R$ 600,00        R$ 75,00
-R$ 600,00 -> R$ 900,00        R$ 50,00
-Acima de R$ 900,00               R$ 35,00
+
+|Salário                |Gratificação |
+|-----------------------|------------:|
+|Até R$ 350,00          |   R$ 100,00 |
+|R$ 350,00 -> R$ 600,00 |   R$ 75,00  |
+|R$ 600,00 -> R$ 900,00 |   R$ 50,00  |
+|Acima de R$ 900,00     |   R$ 35,00  |
  */
 import java.util.Scanner;
 public class Exercicio37 {

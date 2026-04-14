@@ -1,13 +1,15 @@
 /* Um banco concederá um crédito especial aos seus clientes, de acordo
 com o saldo médio no último ano. Faça um programa que receba o saldo médio
 de um cliente e calcule o valor do crédito:
-                            saldo médio
-Acima de R$ 400,00          30% 
-R$ 400,00 -> R$ 300,00      25%
-R$ 300,00 -> R$ 200,00      20%
-R$ 200,00                   10% 
-Mostre o saldo médio e o valor
-do crédito.
+
+|SALDO MÉDIO           |   PERCENTUAL   |
+|----------------------|---------------:|
+|Acima de R$ 400,00    |      30%       |
+|R$ 400,00 -> R$ 300,00|      25%       |
+|R$ 300,00 -> R$ 200,00|      20%       |
+|R$ 200,00             |      10%       |
+
+Mostre o saldo médio e o valor do crédito.
 */
 
 import java.util.Scanner;
