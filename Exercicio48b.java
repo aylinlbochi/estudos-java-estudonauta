@@ -25,5 +25,6 @@ public class Exercicio48b {
             preco -= 0.5;
             ingresso += 26;
         }
+        sc.close();
     }
 }
