@@ -13,7 +13,7 @@ public class Exercicio50 {
         int par = 0, impar = 0;
         
         while (cont <= 5) {
-            System.out.print("Digite o " + cont + "° valor: ");
+            System.out.print("Digite o " + cont + "º valor: ");
             nu = sc.nextInt();
             cont ++;
         if(nu % 2 == 0){

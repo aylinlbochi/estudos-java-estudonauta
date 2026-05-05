@@ -21,7 +21,7 @@ public class Exercicio51 {
             int sorteio;
             sorteio = ThreadLocalRandom.current().nextInt(1,11);
             soma += sorteio;
-            System.out.println("O " + cont + "° sorteado foi " + sorteio);
+            System.out.println("O " + cont + "º sorteado foi " + sorteio);
             cont ++;
             Thread.sleep(400);
         }
