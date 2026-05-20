@@ -70,8 +70,7 @@ public class Exercicio61 {
                 }
             }
         }
-        
-        
+
         System.out.println(Cores.YELLOW + "=======================================================" + Cores.RESET);
         System.out.println("Ao todo tivemos "+ totM + " homens e " + totF + " mulheres cadastrados.");
         System.out.print("A mulher mais jovem é a " + nomeJovemF + " que tem " + menorIdadeF + " anos");
