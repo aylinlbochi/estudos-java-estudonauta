@@ -25,9 +25,11 @@ public class Exercicio63 {
             if(contPrimos == 2){
                 somaPrimos += number;
             } 
+        
         }
         System.out.printf("A soma dos números pares é %d", somaPares);
         System.out.printf("\nA soma dos números primos é %d", somaPrimos);
+        
         sc.close();
     }
 }
